@@ -1,0 +1,7 @@
+{
+    "name": "osticket/osticket",
+    "description": "osTicket is a widely-used open source support ticket system.",
+    "require": {
+        "php": ">=7.0"
+    }
+}

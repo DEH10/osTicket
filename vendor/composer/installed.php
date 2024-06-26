@@ -3,7 +3,7 @@
         'name' => 'osticket/osticket',
         'pretty_version' => 'dev-develop',
         'version' => 'dev-develop',
-        'reference' => '56fd46fd79c77efff56fe82a269a6523ce69c6bb',
+        'reference' => '1510fb81584a453e65f78df5b5aa1d0a63e873dc',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'osticket/osticket' => array(
             'pretty_version' => 'dev-develop',
             'version' => 'dev-develop',
-            'reference' => '56fd46fd79c77efff56fe82a269a6523ce69c6bb',
+            'reference' => '1510fb81584a453e65f78df5b5aa1d0a63e873dc',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
